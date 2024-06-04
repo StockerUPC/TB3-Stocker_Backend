@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3PoqNIFZG8UOuvjdoyop3B2cr2RyueWrx5v0D98oPyg=",
+  "Source": "Stocker-webAPI",
+  "BasePath": "_content/Stocker-webAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
