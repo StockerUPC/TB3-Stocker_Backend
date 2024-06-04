@@ -41,3 +41,5 @@ The Products Context is responsible for managing the creation of Products. Its f
 - Get a Product by Id
 - Get Products by Category Id.
 - Get All Products.
+
+#### Preguntas https://docs.google.com/document/d/1VlZqdeUQLyMANlUfrii1uSao-vePj4SiMWKkyaowcJg/edit?usp=sharing 
