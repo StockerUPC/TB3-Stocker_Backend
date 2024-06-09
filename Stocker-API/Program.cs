@@ -205,4 +205,4 @@ app.MapControllers();
 
 app.Run();
 
-app.o();
+app();
